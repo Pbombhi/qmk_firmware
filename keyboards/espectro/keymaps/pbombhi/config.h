@@ -66,5 +66,7 @@
 
 #define RGBLIGHT_ANIMATIONS
 
+#define RGBLIGHT_SLEEP		//RGB lighting will be switched off when the host goes to sleep
+
 #endif
 
